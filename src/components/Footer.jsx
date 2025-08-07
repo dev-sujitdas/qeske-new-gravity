@@ -106,7 +106,7 @@ const Footer = () => {
       <div className="w-full p-2 mt-2">
         <div className="max-w-screen-2xl mx-auto flex lg:flex-row flex-col justify-between items-center">
           <div className="text-zinc-400">
-            <h3>&copy;2025 Qeske.All rights reserved.</h3>
+            <h3>Powered by Gravity Global Solution</h3>
           </div>
           <div className="flex gap-5 text-zinc-400">
             <h3>Privacy Policy</h3>
